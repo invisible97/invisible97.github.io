@@ -1,0 +1,60 @@
+body {
+	background-color: #595959;
+	color: white;
+	font-family: "Tahoma";
+    font-size: 16px;
+}
+
+#shortdescripiton {
+	color: white;
+}
+
+p{
+	color: white;
+}
+
+h2{
+	color: #000033;
+}
+
+#facts {
+	color: white;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: underline;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #c2c2a3;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+#DS:link {
+    text-decoration: none;
+    color: white;
+}
+
+#DS:visited {
+    text-decoration: none;
+    color: white;
+}
+
+#DS:hover {
+    text-decoration: none;
+    color: #000099;
+}
+
+#DS:active {
+    text-decoration: none;
+}
